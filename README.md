@@ -1,2 +1,2 @@
 # eazy_project
-link ="https://eazy-make-it-makes-easy.netlify.app/"
+link ="https://eazy-makes-it-easy.netlify.app/"
